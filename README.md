@@ -47,11 +47,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Here is the link to my GIF: https://imgur.com/SZLOQuX
-
 <img src='https://i.imgur.com/Vg83Ef4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
+
+![twitter.gif]
 
 ## Notes
 
