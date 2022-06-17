@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](twitter.gif)
+Here is the link to my GIF: https://imgur.com/SZLOQuX
 
 <img src='https://i.imgur.com/Vg83Ef4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
